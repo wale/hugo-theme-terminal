@@ -1,13 +1,13 @@
-name = "terminal"
+name = "terminal-dolch"
 license = "MIT"
-licenselink = "https://github.com/panr/hugo-theme-terminal/blob/master/LICENSE.md"
-description = "A simple, retro theme for Hugo."
-homepage = "https://github.com/panr/hugo-theme-terminal/"
+licenselink = "https://github.com/wale/hugo-theme-terminal/blob/master/LICENSE.md"
+description = "A simple, retro theme for Hugo. Forked from panr/hugo-theme-terminal to change the colour scheme."
+homepage = "https://github.com/wale/hugo-theme-terminal/"
 tags = ["blog", "clean", "customizable", "dark", "highlighting", "minimal", "monotone", "multilingual", "personal", "responsive", "simple", "technical", "retro"]
 features = ["blog", "shortcode", "syntax highlighting"]
 min_version = 0.74
 
 [author]
-  name = "panr"
-  homepage = "https://radoslawkoziel.pl"
-  twitter = "https://twitter.com/panr"
+  name = "wale"
+  homepage = "https://wale.id.au"
+  twitter = "https://twitter.com/spellsaidwrong"
